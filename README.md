@@ -10,7 +10,7 @@
 
 6- After filling in the blanks, save and close config and then open the RP Maker program
 
-Info for compelete :
+Other information to fill in the blanks in config :
 
 Details= {is first note in your rich presence}
 

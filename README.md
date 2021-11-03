@@ -9,3 +9,15 @@
 5- And other vacancies except Start Timestamp End Timestamp Fill in because these are two cmd set timers
 
 6- After filling in the blanks, save and close config and then open the RP Maker program
+
+Info for compelete :
+
+Details= {is first note in your rich presence}
+
+State= {is line 2 of your note in your rich presence}
+
+LargeImage={name of your image in rich presence (discord developer)}
+
+SmallImage={name of your image in rich presence (discord developer)}
+
+LargeImageTooltip & SmallImageTooltip= is name of your image in your rich presence (in discord)
